@@ -110,3 +110,7 @@ st.title("Calculadora de IP")
 
 #resultados
 mostrar_resultados()
+
+#para testar
+#pip install streamlit
+#python3 -m streamlit run calculadora_ip.py
